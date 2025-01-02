@@ -1,0 +1,44 @@
+{
+  "build": "py312h827c3e9_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\ruamel.yaml.clib-0.2.8-py312h827c3e9_0",
+  "files": [
+    "Lib/site-packages/_ruamel_yaml.cp312-win_amd64.pyd",
+    "Lib/site-packages/ruamel.yaml.clib-0.2.8.dist-info/INSTALLER",
+    "Lib/site-packages/ruamel.yaml.clib-0.2.8.dist-info/LICENSE",
+    "Lib/site-packages/ruamel.yaml.clib-0.2.8.dist-info/METADATA",
+    "Lib/site-packages/ruamel.yaml.clib-0.2.8.dist-info/RECORD",
+    "Lib/site-packages/ruamel.yaml.clib-0.2.8.dist-info/REQUESTED",
+    "Lib/site-packages/ruamel.yaml.clib-0.2.8.dist-info/WHEEL",
+    "Lib/site-packages/ruamel.yaml.clib-0.2.8.dist-info/direct_url.json",
+    "Lib/site-packages/ruamel.yaml.clib-0.2.8.dist-info/top_level.txt",
+    ".nonadmin"
+  ],
+  "fn": "ruamel.yaml.clib-0.2.8-py312h827c3e9_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\ruamel.yaml.clib-0.2.8-py312h827c3e9_0",
+    "type": 1
+  },
+  "md5": "a4c0471292bd589a1d8da0e5adbd45e4",
+  "name": "ruamel.yaml.clib",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\ruamel.yaml.clib-0.2.8-py312h827c3e9_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::ruamel.yaml.clib==0.2.8=py312h827c3e9_0[md5=a4c0471292bd589a1d8da0e5adbd45e4]",
+  "sha256": "149af7a51228b5333f9f4ccc5f0b9bb1c19fa8e623fa1456d4a7ee1c25ae8827",
+  "size": 127452,
+  "subdir": "win-64",
+  "timestamp": 1727770125000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/ruamel.yaml.clib-0.2.8-py312h827c3e9_0.conda",
+  "version": "0.2.8"
+}

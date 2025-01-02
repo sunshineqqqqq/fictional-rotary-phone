@@ -1,0 +1,56 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "aiobotocore >=2.5.4,<3.0.0",
+    "aiohttp !=4.0.0a0,!=4.0.0a1",
+    "fsspec 2024.6.1.*",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\s3fs-2024.6.1-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/s3fs-2024.6.1.dist-info/INSTALLER",
+    "Lib/site-packages/s3fs-2024.6.1.dist-info/LICENSE.txt",
+    "Lib/site-packages/s3fs-2024.6.1.dist-info/METADATA",
+    "Lib/site-packages/s3fs-2024.6.1.dist-info/RECORD",
+    "Lib/site-packages/s3fs-2024.6.1.dist-info/REQUESTED",
+    "Lib/site-packages/s3fs-2024.6.1.dist-info/WHEEL",
+    "Lib/site-packages/s3fs-2024.6.1.dist-info/direct_url.json",
+    "Lib/site-packages/s3fs-2024.6.1.dist-info/top_level.txt",
+    "Lib/site-packages/s3fs/__init__.py",
+    "Lib/site-packages/s3fs/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/s3fs/__pycache__/_version.cpython-312.pyc",
+    "Lib/site-packages/s3fs/__pycache__/core.cpython-312.pyc",
+    "Lib/site-packages/s3fs/__pycache__/errors.cpython-312.pyc",
+    "Lib/site-packages/s3fs/__pycache__/mapping.cpython-312.pyc",
+    "Lib/site-packages/s3fs/__pycache__/utils.cpython-312.pyc",
+    "Lib/site-packages/s3fs/_version.py",
+    "Lib/site-packages/s3fs/core.py",
+    "Lib/site-packages/s3fs/errors.py",
+    "Lib/site-packages/s3fs/mapping.py",
+    "Lib/site-packages/s3fs/utils.py",
+    ".nonadmin"
+  ],
+  "fn": "s3fs-2024.6.1-py312haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\s3fs-2024.6.1-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "61ff44d7368f61fa9ff6da81078a0c75",
+  "name": "s3fs",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\s3fs-2024.6.1-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::s3fs==2024.6.1=py312haa95532_0[md5=61ff44d7368f61fa9ff6da81078a0c75]",
+  "sha256": "ca83ad126e24bda5b8f3fec1baecdbe6aab4c6445d59691126b30ce535fd6269",
+  "size": 81885,
+  "subdir": "win-64",
+  "timestamp": 1724924304000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/s3fs-2024.6.1-py312haa95532_0.conda",
+  "version": "2024.6.1"
+}

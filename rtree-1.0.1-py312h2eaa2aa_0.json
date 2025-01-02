@@ -1,0 +1,54 @@
+{
+  "build": "py312h2eaa2aa_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "libspatialindex >=1.8.5",
+    "libspatialindex >=1.9.3,<1.9.4.0a0",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\rtree-1.0.1-py312h2eaa2aa_0",
+  "files": [
+    "Lib/site-packages/Rtree-1.0.1.dist-info/INSTALLER",
+    "Lib/site-packages/Rtree-1.0.1.dist-info/LICENSE.txt",
+    "Lib/site-packages/Rtree-1.0.1.dist-info/METADATA",
+    "Lib/site-packages/Rtree-1.0.1.dist-info/RECORD",
+    "Lib/site-packages/Rtree-1.0.1.dist-info/REQUESTED",
+    "Lib/site-packages/Rtree-1.0.1.dist-info/WHEEL",
+    "Lib/site-packages/Rtree-1.0.1.dist-info/direct_url.json",
+    "Lib/site-packages/Rtree-1.0.1.dist-info/top_level.txt",
+    "Lib/site-packages/rtree/__init__.py",
+    "Lib/site-packages/rtree/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/rtree/__pycache__/core.cpython-312.pyc",
+    "Lib/site-packages/rtree/__pycache__/exceptions.cpython-312.pyc",
+    "Lib/site-packages/rtree/__pycache__/finder.cpython-312.pyc",
+    "Lib/site-packages/rtree/__pycache__/index.cpython-312.pyc",
+    "Lib/site-packages/rtree/core.py",
+    "Lib/site-packages/rtree/exceptions.py",
+    "Lib/site-packages/rtree/finder.py",
+    "Lib/site-packages/rtree/index.py",
+    "Lib/site-packages/rtree/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "rtree-1.0.1-py312h2eaa2aa_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\rtree-1.0.1-py312h2eaa2aa_0",
+    "type": 1
+  },
+  "md5": "e5858cb87eba71a91a9e286dae32c718",
+  "name": "rtree",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\rtree-1.0.1-py312h2eaa2aa_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::rtree==1.0.1=py312h2eaa2aa_0[md5=e5858cb87eba71a91a9e286dae32c718]",
+  "sha256": "c87c616a5bcedb4a22234c1f7e022f627fc5773f0d232975310f91443442dbe4",
+  "size": 61001,
+  "subdir": "win-64",
+  "timestamp": 1699565786000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/rtree-1.0.1-py312h2eaa2aa_0.conda",
+  "version": "1.0.1"
+}
