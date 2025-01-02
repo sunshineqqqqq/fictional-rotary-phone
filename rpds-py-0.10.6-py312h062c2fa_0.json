@@ -1,0 +1,47 @@
+{
+  "build": "py312h062c2fa_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\rpds-py-0.10.6-py312h062c2fa_0",
+  "files": [
+    "Lib/site-packages/rpds/__init__.py",
+    "Lib/site-packages/rpds/__init__.pyi",
+    "Lib/site-packages/rpds/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/rpds/py.typed",
+    "Lib/site-packages/rpds/rpds.cp312-win_amd64.pyd",
+    "Lib/site-packages/rpds_py-0.10.6.dist-info/INSTALLER",
+    "Lib/site-packages/rpds_py-0.10.6.dist-info/METADATA",
+    "Lib/site-packages/rpds_py-0.10.6.dist-info/RECORD",
+    "Lib/site-packages/rpds_py-0.10.6.dist-info/REQUESTED",
+    "Lib/site-packages/rpds_py-0.10.6.dist-info/WHEEL",
+    "Lib/site-packages/rpds_py-0.10.6.dist-info/direct_url.json",
+    "Lib/site-packages/rpds_py-0.10.6.dist-info/license_files/LICENSE",
+    ".nonadmin"
+  ],
+  "fn": "rpds-py-0.10.6-py312h062c2fa_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\rpds-py-0.10.6-py312h062c2fa_0",
+    "type": 1
+  },
+  "md5": "ade4be8c31836766de03126b0f92f814",
+  "name": "rpds-py",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\rpds-py-0.10.6-py312h062c2fa_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::rpds-py==0.10.6=py312h062c2fa_0[md5=ade4be8c31836766de03126b0f92f814]",
+  "sha256": "968e9f8875bec1851ff8cdf960ed93f9542be68d6263d995cc8b86da9775f5b9",
+  "size": 181978,
+  "subdir": "win-64",
+  "timestamp": 1699565738000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/rpds-py-0.10.6-py312h062c2fa_0.conda",
+  "version": "0.10.6"
+}
